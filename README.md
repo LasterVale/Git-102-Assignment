@@ -54,7 +54,7 @@ h2 { color: blue; }
 ```
 
 14. Add and commit your changes locally
-15. Push this branch to your remote repository. (This will create a new remote branch). Remember, when you push your code, don't use "origin". Use `destination` (or the whatever word you chose to use when you set up the remote repo)
+15. Push this branch to your remote repository. (This will create a new remote branch). Remember, when you push your code, don't use "origin". Use `faelund` (or the whatever word you chose to use when you set up the remote repo)
 16. Create a Pull Request for this branch to be merged into `main`
 17. To submit your assignment, put the URL of your GitHub repository in a `.txt` file, zip the file and then upload it through your student portal so we can verify the commit history is correct. DO NOT MERGE YOUR PR UNTIL IT HAS BEEN APPROVED. A Devslopes mentor will review your PR (Pull Request), comment as necessary and reject or approve your PR
 
