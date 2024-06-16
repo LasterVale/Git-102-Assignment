@@ -32,7 +32,7 @@ CONTENTFUL_ACCESS_TOKEN=givejkW9NU_xGGTZxME-xUXTHE-XMgg711codesj4pN
 ```
 
 4. Update the `.gitignore` file to ignore OS generated files/folders and files with sensitive data
-5. As you make changes to this project, be mindful of the requirements **(Requirements state the Pulll Request MUST EXCLUDE files with sensitive data)**.
+5. As you make changes to this project, be mindful of the requirements **(Requirements state the Pull Request MUST EXCLUDE files with sensitive data)**.
 6. It's a good practice to check the changes in your project before adding them to the staging area. You want to make sure you are only tracking the files you intend to.
 7. Add and commit your changes locally
 8. Create a new file, `.env.production.local`
@@ -54,7 +54,7 @@ h2 { color: blue; }
 ```
 
 14. Add and commit your changes locally
-15. Push this branch to your remote repository. (This will create a new remote branch). Remember, when you push your code, don't use "origin". Use `destination` (or the whatever word you chose to use when you set up the remote repo)
+15. Push this branch to your remote repository. (This will create a new remote branch). Remember, when you push your code, don't use "origin". Use `faelund` (or the whatever word you chose to use when you set up the remote repo)
 16. Create a Pull Request for this branch to be merged into `main`
 17. To submit your assignment, put the URL of your GitHub repository in a `.txt` file, zip the file and then upload it through your student portal so we can verify the commit history is correct. DO NOT MERGE YOUR PR UNTIL IT HAS BEEN APPROVED. A Devslopes mentor will review your PR (Pull Request), comment as necessary and reject or approve your PR
 
