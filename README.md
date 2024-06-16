@@ -5,7 +5,7 @@
 1. Clone the repository: `https://github.com/devslopes/devslopes-git-pr-assignment`
 2. Create a remote repository for this project on Github
 3. Push this repository from the command line to Github.
-   **NOTE:**: When adding this repository to Github, you will need to replace the word `origin` with `destination` (or any other word you wish to use). This is because the remote repository you cloned is already using the name, `origin`
+   **NOTE:**: When adding this repository to Github, you will need to replace the word `faelund` with `destination` (or any other word you wish to use). This is because the remote repository you cloned is already using the name, `faelund`
 
 
 ## 🛠 Requirements
